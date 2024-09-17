@@ -35,16 +35,16 @@ Here is a look at the design of the web application:
   ![Initial Interface](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%201.png?raw=true)
 
 - **Memory Initialized:**
-  ![Memory Initialized](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%202.png?raw=true)
+  ![Memory Initialized](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%205.png?raw=true)
 
 - **Memory Allocated:**
-  ![Memory Allocated](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%203.png?raw=true)
+  ![Memory Allocated](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%202.png?raw=true)
 
 - **Multiple Allocations:**
-  ![Multiple Allocations](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%204.png?raw=true)
+  ![Multiple Allocations](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%203.png?raw=true)
 
 - **Memory Released:**
-  ![Memory Released](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%205.png?raw=true)
+  ![Memory Released](https://github.com/omarbasha19/Dynamic-Memory-Management-Simulator/blob/main/photos/Screen%204.png?raw=true)
 
 ## How to Use 🕹️
 
