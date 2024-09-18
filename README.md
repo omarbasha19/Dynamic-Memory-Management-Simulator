@@ -63,7 +63,7 @@ Here is a look at the design of the web application:
 4. **Release Memory**: Enter the label of a block to release it back to the free memory pool.
 5. **Reset Layout**: Click "Reset Memory Layout" to start over.
 
-## Technologies Used 
+## Technologies Used 🛠️
 
 - **C Programming Language**: For the CLI application.
 - **HTML/CSS/JavaScript**: For the web-based interface.
